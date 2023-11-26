@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IA**
 
-- 💬 Ask me about **Java, react**
+- 💬 Ask me about **Development, devops ..**
 
 - 📫 How to reach me **anas.elbouroumi@gmail.com**
 
