@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **IA Geometry dash**
 
-- 🌱 I’m currently learning **IA**
-
-- 💬 Ask me about **Development, devops ..**
+- 💬 Ask me about **Software developpement, web developpement and mobile developpement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
