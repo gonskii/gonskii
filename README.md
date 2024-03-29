@@ -1,11 +1,5 @@
 <h3 align="center">Am passionate about IT</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonskii" alt="gonskii" /></a> </p>
-
-- 🔭 I’m currently working on **IA Geometry dash**
-
-- 💬 Ask me about **Software developpement, web developpement and mobile developpement**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anas-el-bouroumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-el-bouroumi" height="30" width="40" /></a>
